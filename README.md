@@ -89,7 +89,7 @@ You can reach out via:
 
 \*   📝 \*\*GitHub:\*\* Open an Issue right here in the repository.
 
-\*   🎮 \*\*Steam:\*\* Leave a comment on the [\[Steam Workshop Page](#) \*(insert link here)\*.](https://steamcommunity.com/sharedfiles/filedetails/?id=3728369918)
+\*   🎮 \*\*Steam:\*\* Leave a comment on the https://steamcommunity.com/sharedfiles/filedetails/?id=3728369918
 
 \*   👾 \*\*Discord:\*\* DM me at deleted\_user\_1ad51966a18d .
 
